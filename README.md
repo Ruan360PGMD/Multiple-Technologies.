@@ -1,2 +1,2 @@
 # Multiple-Technologies.
- :warning: Em desenvolvimento
+ :warning Em desenvolvimento
